@@ -1,0 +1,7 @@
+
+.paper {
+    position: absolute;
+    width: 400px;  
+    border: 2px solid #000;
+    background-color: white;    
+  }
